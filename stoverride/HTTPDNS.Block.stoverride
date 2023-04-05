@@ -1,5 +1,8 @@
-name: HTTPDNS Block
-desc: Block common HTTP DNS.
+name: "🍟 Fries: 🚫 Block HTTPDNS"
+desc: 阻止常见的 HTTPDNS 服务器
+author: shindgewongxj
+homepage: "https://github.com/VirgilClyne/GetSomeFries/wiki/🚫-HTTPDNS"
+icon: "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Server.png"
 
 http:
   force-http-engine:
